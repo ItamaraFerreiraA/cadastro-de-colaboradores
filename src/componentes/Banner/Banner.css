@@ -1,0 +1,33 @@
+
+
+.banner {
+    background: url('../../../public/imagens/fundo.webp') no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner h1 {
+    font-size: 95px;
+    margin-bottom: 110px;
+    padding: 0 40px;
+    color: #c01f27;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+@media only screen and (max-width: 575px) {
+    .banner h1 {
+        font-size: 60px;
+        margin-bottom: 110px;
+        padding: 0 40px;
+        /* color: #c01f27; */
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+    }
+}
