@@ -1,0 +1,37 @@
+
+
+.lista-areas {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 20px;
+}
+
+.lista-areas label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.lista-areas select {
+    background-color: #FFF;
+    box-shadow: 8px 8px 16px rgba(0,0,0, 0.08);
+    width: 100%;
+    border: none;
+    font-size: 16px; 
+    padding: 12px 20px;
+    color: #000;
+}
+
+.lista-areas select option{
+    color: #000;
+}
+
+.lista-areas select:invalid {
+    color: gray;
+}
+
+.lista-areas select option:first-child {
+    color: gray;
+}
+ 

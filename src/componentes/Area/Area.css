@@ -1,0 +1,23 @@
+
+
+.area {
+    text-align: center;
+    padding: 30px;
+}
+
+.area h3 {
+    font-size: 30px;
+    border-bottom: 4px solid ;
+    display: inline-block;
+    padding-bottom: 8px;
+    font-family: 'Indie Flower', cursive;
+    letter-spacing: 3px;
+}
+ 
+.colaboradores {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 32px;
+    flex-wrap: wrap;
+} 
