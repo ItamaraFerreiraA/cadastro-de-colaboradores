@@ -1,3 +1,8 @@
-<h1>Sistema para cadastro de contribuintes</h1>
+#Taxpayer registration
 
-Aplicação com o intuito de gerenciar os contribuintes em uma empresa.
+Application with the aim of managing taxpayers in a company.
+
+### Technologies:
+* HTML
+* CSS
+* Javascript/react
